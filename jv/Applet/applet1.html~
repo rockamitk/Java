@@ -1,0 +1,12 @@
+<html>
+<head>
+<title> Applet 1</title>
+</head>
+<body bgcolor="lightblue">
+<applet style="background-color:blue;" code="applet1.class"
+	width="400"
+	height="400">
+	
+</applet>
+</body>
+</html>
